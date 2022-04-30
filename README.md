@@ -1,8 +1,3 @@
-# sass-bs-example
-
-Sass Bootstrap example of the course [Webdesign Advanced](https://itf-web-advanced.netlify.app/), 1 IT Factory, Thomas
-More kempen
-
 ## Requirements
 
 - [Node](https://nodejs.org/en/)
