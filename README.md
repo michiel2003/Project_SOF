@@ -7,7 +7,6 @@
 ## Start this project
 
 1. Clone (or download) this repo
-2. Open the folder _sass-bs-example_
-3. Delete the _.git_ folder
-4. Install the Node modules: `npm install`
-5. Start the default Gulp task: `gulp`# Project_SOF
+2. Open the folder 'Project_SOF'
+3. Install the Node modules: `npm install`
+4. Start the default Gulp task: `gulp`# Project_SOF
